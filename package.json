@@ -1,0 +1,16 @@
+{
+  "name": "collection",
+  "version": "1.0.0",
+  "main": "index.js",
+   "type": "module",
+"scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
