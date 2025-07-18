@@ -1,7 +1,7 @@
 {
   "name": "collection-kit",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.1",
+  "main": "./src/index.js",
    "type": "module",
 "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
