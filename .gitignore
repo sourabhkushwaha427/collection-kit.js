@@ -1,0 +1,11 @@
+# .gitignore
+
+# Node modules
+node_modules/
+
+
+# Env files
+.env
+
+# npm-debug files
+npm-debug.log*
