@@ -33,6 +33,41 @@ for (let i = 0; i < list.size(); i++) {
 🧠 Available Data Structures
 
 🔹ArrayList
+🔹LinkedList
+🔹Stack
+🔹Queue
+🔹DoublyLinkedList
+🔹Deque
+🔹PriorityQueue
+🔹CircularQueue
+🔹Graph
+🔹Trie
+🔹HashMap
+🔹Set
+🔹SegmentTree
+🔹DisjointSet
+🔹SkipList
+🔹AVLTree
+🔹RedBlackTree
+🔹BTree
+🔹FenwickTree
+🔹FibonacciHeap
+🔹PairingHeap
+🔹SuffixTree
+🔹BloomFilter
+🔹KDTree
+🔹QuadTree
+🔹SplayTree
+🔹Treap
+🔹RadixTree
+🔹VanEmdeBoasTree
+🔹AhoCorasick
+🔹CountMinSketch
+🔹TernarySearchTree
+🔹IntervalTree
+🔹Rope
+
+🔹ArrayList
 Definition: An ArrayList is a resizable array implementation of the List interface. It allows for dynamic resizing, meaning that the size of the array can grow or shrink as elements are added or removed. ArrayLists provide fast random access to elements, as they are stored in contiguous memory locations, making it efficient to retrieve elements by their index. However, inserting or deleting elements, especially in the middle of the list, can be less efficient due to the need to shift elements.
 
 Key Features:
