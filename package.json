@@ -1,9 +1,12 @@
 {
   "name": "collection-kit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./src/index.js",
-   "type": "module",
-"scripts": {
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "keywords": [],
